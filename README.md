@@ -1,5 +1,7 @@
 # panda-agent-toolkit
 
+**English** | [中文](./README.zh-CN.md)
+
 panda-agent-toolkit is a structured, engineering-focused agent toolkit repository shaped by ten years of real-world development experience.
 
 It serves as a single place to maintain:
@@ -150,6 +152,7 @@ panda-agent-toolkit/
 ├── templates/
 ├── scripts/
 ├── README.md
+├── README.zh-CN.md
 └── LICENSE
 ```
 
